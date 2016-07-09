@@ -1,1 +1,2 @@
-# telegram_tornado
+# Deploy
+```heroku container:push web```
